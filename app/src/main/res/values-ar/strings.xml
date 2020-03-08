@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">For You</string>
+    <string name="txt">اختر التخصص</string>
+    <string name="LogIn">تسجيل دخول</string>
+    <string name="Register">انشاء حساب</string>
+
+
+</resources>

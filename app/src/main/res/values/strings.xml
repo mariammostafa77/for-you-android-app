@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">For You</string>
+    <string name="txt">choose your specialty</string>
+    <string name="LogIn">LogIn</string>
+    <string name="Register">Create account</string>
+    <string name="name_info">Hi, My name is Mariam Mostafa Ali</string>
+    <string name="details">Born: 7/7/1999\nFrom: Alexandria\nFaculty:of computer and information.
+    </string>
+    <string name="details2">Active listening skills.\nFlexibility in work.\nGood judgment.\nThe ability to persuade others.\nThe ability to keep an open mind.\nHonesty.
+    </string>
+    <string name="details3">Arabic.\nEnglish.
+    </string>
+
+
+</resources>
